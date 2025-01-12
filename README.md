@@ -14,7 +14,7 @@ Frontend: React.js, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JWT
-Hosting: [Add hosting platform, e.g., Vercel/Heroku]
+
 
 
 ## Dependencies

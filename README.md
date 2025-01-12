@@ -111,6 +111,6 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-Demo Video
+## Demo Video
 [screen-capture.webm](https://github.com/user-attachments/assets/67b90c24-1d9e-4363-a4d0-e015a7139ee2)
 

@@ -1,75 +1,21 @@
-
-# MERN Task Manager
-
-A MERN application for basic tasks management.
-Live - https://mern-task-manager-b5br.onrender.com/
-
-## Table of Contents
-
-- [Features](#features)
-- [Tools and Technologies](#tools-and-technologies)
-- [Dependencies](#dependencies)
-- [Dev-dependencies](#dev-dependencies)
-- [Prerequisites](#prerequisites)
-- [Installation and setup](#installation-and-setup)
-- [Backend API](#backend-api)
-- [frontend pages](#frontend-pages)
-- [npm scripts](#npm-scripts)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
-
-
-gjgjgjygj
-hkhkjbj
-
-
+A full-stack web application designed to streamline task management, allowing users to register, log in, and perform CRUD operations (Create, Read, Update, Delete) on tasks. The application is built with a robust backend, responsive frontend, and secure database integration.
 
 ## Features
+User Authentication: Secure registration and login using JSON Web Tokens (JWT).
+Task Management: Create, view, update, and delete tasks seamlessly.
+Responsive Frontend: Intuitive and user-friendly design built with React.js.
+Robust Backend: API endpoints developed using Node.js and Express.js.
+Secure Database: Data stored securely in MongoDB with well-designed schemas.
+Error Handling: Meaningful error messages and validations for smooth user experience.
+Security: Password hashing and protection against common vulnerabilities.
 
-### User-side features
+## Technologies Used
+Frontend: React.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
+Hosting: [Add hosting platform, e.g., Vercel/Heroku]
 
-- Signup
-- Login
-- Logout
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
-
-### Developer-side features
-
-- Toasts for success and error messages
-- Form validations in frontend and backend
-- Fully Responsive Navbar
-- Token based Authentication
-- Use of 404 page for wrong urls
-- Relevant redirects
-- Global user state using Redux
-- Custom Loaders
-- Use of layout component for pages
-- Use of theme colors
-- No external CSS files needed (made using Tailwind CSS)
-- Usage of Tooltips
-- Dynamic document titles
-- Redirect to previous page after login
-- Use of various React hooks
-- Custom hook also used (useFetch)
-- Routes protection
-- Middleware for verifying the user in backend
-- Use of different HTTP status codes for sending responses
-- Standard pratices followed
-
-## Tools and Technologies
-
-- HTML
-- CSS
-- Javascript
-- Tailwind CSS
-- Node.js
-- Express.js
-- React
-- Redux
-- Mongodb
 
 ## Dependencies
 
@@ -166,26 +112,5 @@ Inside backend folder:
 - `npm start`: Starts backend without nodemon.
 
 
-- Official Docs
 
-  - Reactjs docs: https://reactjs.org/docs/getting-started.html
-  - npmjs docs: https://docs.npmjs.com/
-  - Mongodb docs: https://docs.mongodb.com/manual/introduction/
-  - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
-
-- Youtube tutorials
-
-  - Expressjs: https://youtu.be/L72fhGm1tfE
-  - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
-
-- Download links
-
-  - Nodejs download: https://nodejs.org/
-  - VS Code download: https://code.visualstudio.com/
-
-- Cheatsheets
-  - Git cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-  - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-  - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
 
